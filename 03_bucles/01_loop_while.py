@@ -137,5 +137,5 @@ while num != num_secret:
     else:
         print("El numero secret és més petit")
     num = int(input("Endevina el numero secret: "))
-else:
-    print("Has encertat el numero secret!")
+
+print("Has encertat el numero secret!")
